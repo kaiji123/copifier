@@ -3,7 +3,7 @@ A simple a copying program that allows to copy things into stack !
 
 #### Demo
 The link below shows example demo in Youtube. 
-[![Watch the video](https://youtu.be/lNGmti2pGqk)
+[Watch the video](https://youtu.be/lNGmti2pGqk)
 
 
 #### Requirements
